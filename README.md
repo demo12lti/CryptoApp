@@ -16,7 +16,7 @@ To get started with this project, you'll need to have Node.js and npm (Node Pack
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/crypto-price-tracker.git
+   git clone https://github.com/demo12lti/cryptoApp.git
 
 open in vscode or any other IDE of your choice 
 navigate to directory 
