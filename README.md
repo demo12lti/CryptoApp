@@ -18,8 +18,10 @@ To get started with this project, you'll need to have Node.js and npm (Node Pack
    ```bash
    git clone https://github.com/demo12lti/cryptoApp.git
 
-open in vscode or any other IDE of your choice 
+First open backend folder in anyother IDE then start backend server with 
+npm run dev , the 
+open frontend folder in vscode or any other IDE of your choice 
 navigate to directory 
-install all the dependencies 
+install all the dependencies give (npm install) 
 and then , give command npm start 
 congratulations you have your #CRYPO APP ready in your environment
